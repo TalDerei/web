@@ -1,0 +1,11 @@
+refactor: remove legacy code (#100)
+
+* refactor: remove legacy v1 code
+
+* refactor: apply new changes from main
+
+* refactor: format
+
+* refactor: finish with the API endpoints
+
+* fix: build issues (Original PR: penumbra-zone/dex-explorer#100)
