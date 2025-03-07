@@ -1,0 +1,15 @@
+build: update container image context (#120)
+
+We noticed a regression between v1 and v2 versions in the built container.
+In the local dev env, created via `pnpm run dev`, v2 served just fine,
+but the container uses `pnpm run build` output for a prod site, and that
+site works differently.
+
+Small changes throughout:
+
+  * updated justfile targets to facilitate local testing of containers
+  * refreshed dockerignore file for faster local container builds
+  * migrated use of `npm` in container build to `pnpm` for consistency
+
+These are all good changes but we still don't have a fully working v2
+site served via container. (Original PR: penumbra-zone/dex-explorer#120)
