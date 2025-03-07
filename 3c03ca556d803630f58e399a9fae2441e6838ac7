@@ -1,0 +1,7 @@
+Inspect Tx Pindexer (2/2) (#377)
+
+* Setup server transaction endpoint
+
+* Replace TendermintProxyService with next api endpoint
+
+* Get tx from pindexer (Original PR: penumbra-zone/dex-explorer#377)
