@@ -1,0 +1,4 @@
+ci: fix deploy workflow
+
+Updates the deployment name after a rebuild this morning, which uses
+namespaces for organization. Refs #120. (Original PR: penumbra-zone/dex-explorer#120)
