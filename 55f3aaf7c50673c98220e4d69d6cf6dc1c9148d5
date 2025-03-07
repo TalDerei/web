@@ -1,0 +1,3 @@
+Handle infinite values being returned without a runtime error (#368)
+
+Co-authored-by: Zaki Manian <zakimanian@Zakis-MacBook-Pro.local> (Original PR: penumbra-zone/dex-explorer#368)
