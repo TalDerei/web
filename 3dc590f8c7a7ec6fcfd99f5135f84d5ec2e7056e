@@ -1,0 +1,40 @@
+fix: rework position rendering logic (#242)
+
+* math(positions): add comment about asset id encoding
+
+* ui(positions): don't render trailing zeroes
+
+* model(positions): fix `DisplayPosition` rendering
+
+Co-Authored-By: Jason M. Hasperhoven <13964126+JasonMHasperhoven@users.noreply.github.com>
+
+* math(tests): scaffolding for rendering calculation tests
+
+Co-Authored-By: Jason M. Hasperhoven <13964126+JasonMHasperhoven@users.noreply.github.com>
+
+* trade: fix current value rendering
+
+Co-Authored-By: Jason M. Hasperhoven <13964126+JasonMHasperhoven@users.noreply.github.com>
+
+* chore: run linter
+
+* Add tests for getOrdersByBaseQuoteAssets
+
+* Remove eslint disable comment
+
+* Add canonical order assertion before all position tests
+
+* Add comment to ExecutionPosition interface
+
+* Refactor getDirectionalOrders & getOrderValueViews
+
+* Add tests for getOrderValueViews and convert units to use BigNumber
+
+* Fix unit conversions in current positions
+
+* Add tests for getDirectionalOrders
+
+---------
+
+Co-authored-by: Jason M. Hasperhoven <13964126+JasonMHasperhoven@users.noreply.github.com>
+Co-authored-by: Jason M. Hasperhoven <martijn.hasperhoven@gmail.com> (Original PR: penumbra-zone/dex-explorer#242)
