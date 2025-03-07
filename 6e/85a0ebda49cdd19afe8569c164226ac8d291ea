@@ -1,0 +1,39 @@
+QOL Updates  (#28)
+
+* Refractor constants
+
+* Update all packages
+
+* Analytics and insights for vercel
+
+* Fix token lookups
+
+* No order handling
+
+* Gitignore
+
+* Semantics
+
+* More semantics
+
+* Make private env vars to really be private
+
+* Language
+
+* 1 week OHLC lookback
+
+* 1h default
+
+* Recent swap homepage
+
+* Mobile header
+
+* Fix headers
+
+* Mobile view trace and homepage
+
+* Fix widths on desktop
+
+* Trades page mobile view
+
+* LP View mobile (Original PR: penumbra-zone/dex-explorer#28)
