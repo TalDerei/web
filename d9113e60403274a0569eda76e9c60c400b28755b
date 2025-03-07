@@ -1,0 +1,98 @@
+Limit Orders (#181)
+
+* Add limit order form
+
+* Construct limit order position
+
+* Refactor order form stores & introduce pnum util
+
+* Update pnum description
+
+* Use remote pnum
+
+* Fix lint issues
+
+* Fix handling of input fields numbers
+
+* tmp commit
+
+* Convert to base units
+
+* Start fleshing out shared position logic
+
+* Add tests for position math
+
+* Integrate position logic into range liquidity form
+
+* Define limit order position function
+
+* Add some documentation to position math
+
+* Wire up limit position form
+
+* Remove slider from limit order form
+
+* Remove key error
+
+* Apply same p,q,r1,r2 values as rust code
+
+* Construct positions taking into account asset order
+
+* Have position plans take in display units for reserves
+
+* Fix limit order amount handling + gas fee calc
+
+* Fix display amounts for range liquidity form
+
+* Bug: don't display weird text in order input
+
+* Define PriceLinkedInputs store
+
+This store will be very useful for market and limit orders, and already addresses
+some yet unreported sources of UX oddities, like the inputs not updating with the price.
+
+* Define new store for MarketOrderForm
+
+* Move AssetInfo to separate file
+
+* Add store for limit order position
+
+* Add RangeOrderFormStore
+
+* Basic wiring of form refactor
+
+* Implement order submission
+
+* Fix range liquidity fee tier selection
+
+* Correct range liquidity
+
+* Gas fee calculation, remove unused stuff
+
+* Fix remaining lints
+
+* Correct order of p and q in position construction
+
+* Use a more robust method of getting p and q in range
+
+This should handle cases where they're out of range by losing only the necessary precision, and it should handle cases where the price gets flattened to 0
+
+* Remove wheel input changes
+
+* Fix market slider input change
+
+* Refactor setter methods for mobx strict mode, fix rerenders
+
+* Fix hydration issue caused by connectionStore.connected
+
+* Fix inputs disappearing
+
+* Add active states to select groups
+
+* Remove setup connection hoc
+
+* Wrapp app with observer
+
+---------
+
+Co-authored-by: Lucas Meier <lucas@cronokirby.com> (Original PR: penumbra-zone/dex-explorer#181)
