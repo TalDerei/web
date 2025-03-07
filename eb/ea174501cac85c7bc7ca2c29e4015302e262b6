@@ -1,0 +1,7 @@
+feat: allow multiwallet support in v2 (#97)
+
+* feat: allow multiwallet support in v2
+
+* fix: lint
+
+* fix: formatter (Original PR: penumbra-zone/dex-explorer#97)
