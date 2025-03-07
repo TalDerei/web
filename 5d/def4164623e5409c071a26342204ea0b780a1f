@@ -1,0 +1,13 @@
+feat: serialize (#185)
+
+* feat: #111: make stats request in client components
+
+* feat: #111: implement serialize, deserialize and innerFetch helpers
+
+* fix: remove unused types
+
+* fix: lint
+
+* fix: rename innerFetch to apiFetch (Original PR: penumbra-zone/dex-explorer#185
+111
+111)
