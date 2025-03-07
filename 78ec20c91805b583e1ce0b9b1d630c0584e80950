@@ -1,0 +1,9 @@
+feat: filter positions by subaccount (#329)
+
+* feat: filter positions by subaccount
+
+* fix: remove console log and add comments
+
+* chore: update deps
+
+* fix: lockfile (Original PR: penumbra-zone/dex-explorer#329)
