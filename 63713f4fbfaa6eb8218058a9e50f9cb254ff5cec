@@ -1,0 +1,25 @@
+explorer: basic execution stream support (#296)
+
+* explorer: regenerate pindexer schema
+
+* explorer: basic recent executions support
+
+* explorer: run linter
+
+* explorer: correct price when we go quote to base
+
+* explorer: always render the base amount
+
+* feat: update market trades rendering
+
+* feat: add hops info to market trades
+
+* feat: move market trade computations to the server
+
+* fix: amount format
+
+* feat: display hop route in market trades
+
+---------
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com> (Original PR: penumbra-zone/dex-explorer#296)
