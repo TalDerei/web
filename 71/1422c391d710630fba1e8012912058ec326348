@@ -1,0 +1,33 @@
+Implement Linting, TS Config + CI (#48)
+
+* Add trade page w/ new layout
+
+* Add recent swaps to explorer page
+
+* Add swaps component
+
+* Add PairSelector component
+
+* Setup eslint, prettier + tsconfig
+
+* Cleanup backup files
+
+* Add ci workflow
+
+* Add pnpm version
+
+* Remove unknown option for ci.yml
+
+* Fix linting issues
+
+* Add disable rules for older files
+
+* Cleanup files
+
+* Fix lint warnings for now
+
+* Fix strict lints
+
+---------
+
+Co-authored-by: Lucas Meier <lucas@cronokirby.com> (Original PR: penumbra-zone/dex-explorer#48)
