@@ -1,0 +1,8 @@
+ci: only build container once per merge (#91)
+
+Since the deploy workflow depends on the container workflow, we'll
+trigger the latter on running the former. Therefore the container
+workflow shouldn't run on its on when main changes.
+
+Also cleans up the post-deploy wait-for task to use proper shell
+commands. (Original PR: penumbra-zone/dex-explorer#91)
