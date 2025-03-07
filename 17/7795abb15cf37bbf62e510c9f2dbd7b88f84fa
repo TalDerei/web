@@ -1,0 +1,5 @@
+feat: add scripts and webpack plugins to watch for local package changes (#116)
+
+* feat: add scripts and webpack plugins to watch for local package changes
+
+* fix: format (Original PR: penumbra-zone/dex-explorer#116)
