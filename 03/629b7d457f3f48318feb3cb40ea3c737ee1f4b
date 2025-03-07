@@ -1,0 +1,33 @@
+Dynamic client side envs 2 (#80)
+
+* Implement dynamic client side envs
+
+* Remove configConstants
+
+* Fix lint issue
+
+* docs: update readme with new env vars
+
+* Add useEnv fetcher
+
+* Refactor app to use fetchers
+
+* Remove ClientEnv type file
+
+* Fix merge conflict + view pool bug
+
+* Add defaults for client env
+
+* Fix type import
+
+* Refactor fetchers to suffix Deprecated
+
+* Fix duplicate lpAssetView.tsx file
+
+* Fix lint issues
+
+* Fix lp asset view
+
+---------
+
+Co-authored-by: Conor Schaefer <conor@penumbralabs.xyz> (Original PR: penumbra-zone/dex-explorer#80)
