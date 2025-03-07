@@ -1,0 +1,19 @@
+Candles v2 (time windows) (#128)
+
+* Query Pindexer db for candles
+
+* Add symbol hook
+
+* working candles w/ buttons
+
+* Remove old candle api route
+
+* remove more
+
+* docs: update database reqs to pindexer
+
+* Review updates
+
+---------
+
+Co-authored-by: Conor Schaefer <conor@penumbralabs.xyz> (Original PR: penumbra-zone/dex-explorer#128)
