@@ -1,0 +1,28 @@
+feat: #65: pair selector (#85)
+
+* feat: #65: implement pair selector
+
+* feat: #65: fill pair selector with account balances
+
+* feat: fill the `PairSelector` with the registry values
+
+* feat: #65: use react-query to fetch assets and balances
+
+* refactor: #65: use setters in the stores
+
+* fix: #65: use react-query instead of mobx to keep the state of the fetchers
+
+* fix: #65: apply latest changes
+
+* fix: #65: apply PR comments and add better docs
+
+* fix: #65: rename balances queryKey (Original PR: penumbra-zone/dex-explorer#65
+85
+65
+65
+65
+65
+65
+65
+65
+65)
