@@ -1,0 +1,39 @@
+Inspect Tx Page (1/2) (#358)
+
+* Add inspect/tx with tx-view-component
+
+* Display tx info
+
+* Replace segmented-picker
+
+* Fix copy-paste errors
+
+* Replace viewService with tendermint rpc
+
+* tmp commit
+
+* Fill TransactionInfo with data
+
+* Handle all transaction actionView cases
+
+* Add Dutch Auction Component
+
+* Fix lint:strict
+
+* Remove dependency of ViewService for getMetadataFn
+
+* Remove console statements & twMerge
+
+* Readd twMerge
+
+* Remove twMerge
+
+* Fix import/export
+
+* add tx page links to lp inspect
+
+* Use nextjs Link component for anchors
+
+---------
+
+Co-authored-by: Henry de Valence <hdevalence@penumbralabs.xyz> (Original PR: penumbra-zone/dex-explorer#358)
