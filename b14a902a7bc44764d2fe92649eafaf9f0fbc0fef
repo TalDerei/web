@@ -1,0 +1,5 @@
+fix: reload on wallet disconnect (#218)
+
+* fix: reload on wallet disconnect
+
+* fix: move reload to finally (Original PR: penumbra-zone/dex-explorer#218)
