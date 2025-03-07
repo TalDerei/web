@@ -1,0 +1,14 @@
+feat: #221: market order improvements (#234)
+
+* feat: #221: allow price estimation for not-connected accounts
+
+* feat: #221: improve the market order form
+
+* fix: #221: return inputs back to their place
+
+* fix: #221: fix unfilled and price impact calculations (Original PR: penumbra-zone/dex-explorer#221
+234
+221
+221
+221
+221)
