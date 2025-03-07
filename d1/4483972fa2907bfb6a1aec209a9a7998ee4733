@@ -1,0 +1,7 @@
+Candlestick charts (#23)
+
+* Basic OHLC chart skeleton
+
+* Borked chart
+
+* Candlesticks (Original PR: penumbra-zone/dex-explorer#23)
