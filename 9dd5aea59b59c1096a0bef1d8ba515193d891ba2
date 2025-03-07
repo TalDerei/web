@@ -1,0 +1,27 @@
+feat(#328): my trades implementation (#337)
+
+* feat(#328): my trades implementation
+
+* feat: implement `my-executions` POST request
+
+* fix: prepare data for my trades
+
+* fix: data requests
+
+* feat: finish my trades section
+
+* todo: add todos
+
+* chore: update dependencies
+
+* fix: pr review comments
+
+* docs: update comments about my-executions
+
+* feat: improve `myTrades` pindexer query
+
+* fix: limit the amount of returned trades
+
+* fix: filter by batch_amount instead of input (Original PR: penumbra-zone/dex-explorer#328
+337
+328)
