@@ -1,0 +1,33 @@
+Route Book (#93)
+
+* Add RouteBook component and book routes
+
+* Add Metadata for symbol1 & 2
+
+* Return Position[] from book route
+
+* Add getDisplayData
+
+* Get display data with totals
+
+* Fix types for route book component
+
+* Refactor Route type
+
+* Add sort for buy side routes with totals
+
+* Fix types
+
+* Moved import compute position id to a hook
+
+* Fix import & type
+
+* Address PR comments
+
+* fix build
+
+* Remove unused filter line
+
+* fix pnpm lock file
+
+* Applied prettier (Original PR: penumbra-zone/dex-explorer#93)
