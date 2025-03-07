@@ -1,0 +1,19 @@
+Order book positions (#12)
+
+* Some formatting
+
+* Correct buy and sell lists
+
+* clean look
+
+* fix overlap
+
+* Width helpers
+
+* Fix edge cases
+
+* Zoom on multiplier
+
+* Add trade chart hover line back
+
+* Add duplicate points for direct liq chart to help with rendering nearest points (Original PR: penumbra-zone/dex-explorer#12)
