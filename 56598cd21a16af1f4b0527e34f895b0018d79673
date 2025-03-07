@@ -1,0 +1,9 @@
+explorer: show symbol in receive field (#355)
+
+* explorer: show symbol in receive field
+
+* Fix lint
+
+---------
+
+Co-authored-by: Jason M. Hasperhoven <martijn.hasperhoven@gmail.com> (Original PR: penumbra-zone/dex-explorer#355)
