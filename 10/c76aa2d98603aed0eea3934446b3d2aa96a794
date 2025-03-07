@@ -1,0 +1,15 @@
+feat: support PENUMBRA_INDEXER_CA_CERT env var override
+
+Adds opt-in support for declaring a CA certificate value for the
+database TLS connection. Some managed postgres solutions, such as
+DigitalOcean's, require this setting. In order to use it:
+
+  1. set the PENUMBRA_INDEXER_CA_CERT env var with the string contents of the db's CA
+  2. remove the `sslmode=require` from the connection auth string
+
+The need for 2 is because the `connectionString` param clobbers
+any manual `ssl` opts in the db config, and is documented here [0].
+
+Closes #55.
+
+[0] https://node-postgres.com/features/ssl#usage-with-connectionstring (Original PR: penumbra-zone/dex-explorer#55)
