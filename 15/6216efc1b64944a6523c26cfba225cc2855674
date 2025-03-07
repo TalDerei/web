@@ -1,0 +1,18 @@
+fix: routebook visual updates (#187)
+
+* fix: padding in route book
+
+* refactor: update skeleton loading rows and format price/number functions in trade components
+
+- Replaced static loading placeholders with a reusable Skeleton component for better consistency in the RouteBook.
+- Adjusted table header padding for improved alignment.
+- Introduced formatPrice and formatNumber functions to standardize price and number formatting across TradeRow and RouteBook components.
+- Updated TradeRow to utilize new formatting functions for displaying prices, amounts, and totals.
+
+* feat: almost there
+
+* fix: no more tables, grid is king
+
+* fix: lints
+
+* fix: lints (Original PR: penumbra-zone/dex-explorer#187)
