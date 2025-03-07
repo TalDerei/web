@@ -1,0 +1,7 @@
+Use url route params for assets (#98)
+
+* Convert asset selector to route params
+
+* pass in route params
+
+* Review updates (Original PR: penumbra-zone/dex-explorer#98)
