@@ -1,0 +1,15 @@
+feat: implement error state designs (#228)
+
+* Quick commit 2025-01-07 12:49:57
+
+* feat: routebook error state, fix chart height
+
+* feat: positions error state
+
+* feat: correct stacking
+
+* Quick commit 2025-01-09 14:29:32
+
+* fix: make error msgs consistent in routebook and positions.
+
+* feat: add eslint cache to gitignore (Original PR: penumbra-zone/dex-explorer#228)
