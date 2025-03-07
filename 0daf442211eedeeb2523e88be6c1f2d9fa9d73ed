@@ -1,0 +1,8 @@
+fix(build): ditch corepack in containerfile (#341)
+
+The deploy pipeline was failing on container builds (across the PL
+frontend repos) due to upstream breakage in corepack [0].
+This changes matches changes in e.g. [1].
+
+[0] https://github.com/nodejs/corepack/issues/612
+[1] https://github.com/penumbra-zone/penumbers/pull/19 (Original PR: penumbra-zone/dex-explorer#341)
