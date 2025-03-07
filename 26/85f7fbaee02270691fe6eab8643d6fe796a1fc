@@ -1,0 +1,9 @@
+Update to latest pindexer schema (#135)
+
+* Update to latest pindexer schema
+
+* Add schema gen helper
+
+* Update query & types
+
+* review update (Original PR: penumbra-zone/dex-explorer#135)
