@@ -1,0 +1,7 @@
+fix: #265: route book styles (#270)
+
+* refactor: #265: split route book into multiple files and improve styles
+
+* feat: improve text styles for route book (Original PR: penumbra-zone/dex-explorer#265
+270
+265)
