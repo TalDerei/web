@@ -1,0 +1,16 @@
+Correct data extraction from pindexer for explore page (#308)
+
+* refactor: use getClientSideEnv() in server/stats
+
+* Fetch aggregate statistics correctly
+
+This refactors the aggregate statistics of the explore page to correctly fetch the information.
+
+This also moves more data formatting onto the client, reusing protobuf
+types for data interchange.
+
+* quick fix for the data issues in the summary page volume
+
+Just a matter of using the pre-calculated USDC prices.
+
+* Fix lints and reviews (Original PR: penumbra-zone/dex-explorer#308)
