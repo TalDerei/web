@@ -1,0 +1,5 @@
+Stopgap: treat negative liquidity and volume as positive (#325)
+
+* Stopgap: treat negative liquidity and volume as positive
+
+This is a data issue in pindexer, but we should handle this in a robust way, instead of keeling over. (Original PR: penumbra-zone/dex-explorer#325)
