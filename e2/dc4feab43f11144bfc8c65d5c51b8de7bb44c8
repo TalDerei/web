@@ -1,0 +1,49 @@
+Range liquidity (#156)
+
+* Improve order form toast
+
+* Setup UI for range liquidity order form
+
+* Disable button on no set amounts
+
+* Add estimate tooltip
+
+* Fix isApproximately by direction
+
+* Fix disconnect error message
+
+* Split order form store
+
+* Add FormType
+
+* Apply arguments for range liquidity txPlanner
+
+* Convert amounts to baseUnits
+
+* Refactor initiatePositionsTx()
+
+* Fix reversed lo hi amounts
+
+* Fix r1
+
+* Fix lint issues
+
+* Improve UX for range inputs and slider
+
+* Update node version on github runner
+
+* Use node 22 for ci build
+
+* Update @penumbra-zone/ui pkg
+
+* Update @penumbra-zone/ui
+
+* Fix lint issues
+
+* Replace round fn
+
+* Fix overflow and gas fee for range liquidity
+
+* Remove console logs
+
+* Refactor type assertions (Original PR: penumbra-zone/dex-explorer#156)
