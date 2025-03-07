@@ -1,0 +1,7 @@
+gas fees: display alternative gas fee metadata (#272)
+
+* display alternative gas fee metadata
+
+* use react query
+
+* cleanup (Original PR: penumbra-zone/dex-explorer#272)
