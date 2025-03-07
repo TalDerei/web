@@ -1,0 +1,23 @@
+New Layout + Page structure (#47)
+
+* Update navbar
+
+* Add trade page w/ new layout
+
+* Add recent swaps to explorer page
+
+* Add swaps component
+
+* Add PairSelector component
+
+* Remove neon style from loader
+
+* Fix depth chart
+
+* Cleanup code
+
+* Remove .vscode from git
+
+* Add .vscode to gitignore
+
+* Add redirect from / to /trade (Original PR: penumbra-zone/dex-explorer#47)
