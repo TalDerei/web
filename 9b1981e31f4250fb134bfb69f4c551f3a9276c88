@@ -1,0 +1,36 @@
+feat: #359: LP leaderboard (#366)
+
+* feat: #359: implement initial leaderboard request
+
+* refactor: #359: make `pindexerDb` reusable
+
+* feat: #359: implement page transition
+
+* feat: #359: request initial leaderboard data
+
+* feat: implement visual asset pair filters
+
+* feat: implement time interval filter
+
+* fix: move the request to nextjs apis
+
+* Move leaderboard query, fix lint issues
+
+* Add base & quote filters
+
+* Cleanup
+
+* Fix interval
+
+* Add sorting and handle duplicate position ids
+
+* Fix lint & address pr comments
+
+---------
+
+Co-authored-by: Jason M. Hasperhoven <martijn.hasperhoven@gmail.com> (Original PR: penumbra-zone/dex-explorer#359
+366
+359
+359
+359
+359)
