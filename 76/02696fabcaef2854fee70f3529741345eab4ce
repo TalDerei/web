@@ -1,0 +1,5 @@
+LP inspect fixes (#194)
+
+Fix data issues with LP inspect page and restore timeline layout.
+
+The rendering still needs to restore the asset icons but this can be done later. (Original PR: penumbra-zone/dex-explorer#194)
