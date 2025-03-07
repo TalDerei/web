@@ -1,0 +1,5 @@
+fix: don't spam the user with gas estimation failed error toasts (#281)
+
+* fix: don't spam the user with gas estimation failed error toasts
+
+* Quick commit 2025-01-16 16:56:56 (Original PR: penumbra-zone/dex-explorer#281)
