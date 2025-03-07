@@ -1,0 +1,13 @@
+ci: add automatic deploys to testnet environment (#90)
+
+Now that we've resolved #73, we're unblocked from restoring rolling
+deployments on merge to main, to the testnet instance [0].
+This new workflow blocks on completion of the build-container logic,
+then bounces the pre-existing deployment to pull the most recently built
+container.
+
+Refs #72.
+
+[0] https://dex-explorer.testnet.plinfra.net (Original PR: penumbra-zone/dex-explorer#90
+73
+72)
