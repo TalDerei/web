@@ -1,0 +1,11 @@
+Migrate grpc queries server side (#7)
+
+* Migrate grpc queries server side
+
+* fix lp view
+
+* Shielded pool -> server side
+
+* fix rendering for if position not found
+
+* Move sim queries server side (Original PR: penumbra-zone/dex-explorer#7)
