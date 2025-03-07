@@ -1,0 +1,28 @@
+feat: #163: pair selector (#204)
+
+* fix: apply new UI changes of density
+
+* feat: set up new PairSelector
+
+* feat: add star-pair feature
+
+* feat: implement basic pair selection
+
+* refactor: create more components related to pair selector
+
+* feat: implement filtering input
+
+* feat: implement `/api/pairs` endpoint to fetch the most popular pairs
+
+* feat: implement recent assets in search results
+
+* feat: use balances in the search results
+
+* fix: small bugs
+
+* fix: merge
+
+* fix: ts
+
+* fix: handle the pr feedback (Original PR: penumbra-zone/dex-explorer#163
+204)
