@@ -1,0 +1,7 @@
+fix: mobile styles for positions block (#298)
+
+* fix: mobile styles for positions block
+
+* fix: screen resolutions
+
+* fix: mobile styles for position table (Original PR: penumbra-zone/dex-explorer#298)
