@@ -1,0 +1,15 @@
+Add an LP timeline view like the previous UI. (#171)
+
+* Add an LP timeline view like the previous UI.
+
+This code is messy, but it should be merged ASAP, because not having the
+ability to inspect LP positions while doing development means there's no way to
+spot-check any other part of the UI, and that's not acceptable.
+
+* Inspect design updates
+
+* type declare css
+
+---------
+
+Co-authored-by: Gabe Rodriguez <grod220@gmail.com> (Original PR: penumbra-zone/dex-explorer#171)
