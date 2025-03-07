@@ -1,0 +1,43 @@
+feat: loading indicator for charts (#162)
+
+* feat: mobile view of portfolio page
+
+* Update src/pages/portfolio/index.tsx
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com>
+
+* fix: pr feedback
+
+* fix: pr feedback
+
+* fix: detect useragent on server
+
+* fix: detect useragent on server
+
+* feat: pr feedback
+
+* refactor: update ChartLoadingState component and improve layout
+
+- Changed ChartLoadingState from a loading message to an animated SVG graphic for better user experience.
+- Adjusted the rendering logic in the Chart component to display the loading state conditionally.
+- Cleaned up the layout in the TradePage component by removing unnecessary classes for better responsiveness.
+
+* refactor: enhance Chart component layout and loading state handling
+
+- Updated ChartLoadingState to include a maximum height for better visual consistency.
+- Modified ChartData return statement to ensure full width is utilized.
+- Adjusted rendering logic in the Chart component to conditionally display loading state and chart data, improving user experience and responsiveness.
+
+* feat: prettier lint
+
+* chore: unnecessary change
+
+* remove redundant class
+
+* feat: add fade-in animation to skeleton
+
+* lint
+
+---------
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com> (Original PR: penumbra-zone/dex-explorer#162)
