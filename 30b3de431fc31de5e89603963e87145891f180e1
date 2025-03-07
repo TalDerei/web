@@ -1,0 +1,7 @@
+Swap direction of volume pair if base is stable or important numeraire (#314)
+
+* Swap direction of volume pair if base is stable or important numeraire
+
+* Add function docs
+
+* Fix check (Original PR: penumbra-zone/dex-explorer#314)
