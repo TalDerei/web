@@ -1,0 +1,11 @@
+Sortable Positions Table (#330)
+
+* Add SortableTableHeader
+
+* Handle position cases for closed & withdrawn & feeTier
+
+* Add useCallback
+
+* Replace icons
+
+* Move sortedPositions into useMemo (Original PR: penumbra-zone/dex-explorer#330)
