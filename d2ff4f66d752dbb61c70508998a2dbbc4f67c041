@@ -1,0 +1,9 @@
+Add receive/"pay with" info line to limit order form UI (#294)
+
+* Add receive/pay with amount to limit form UI
+
+* Fix text for receive
+
+* Allow nested ternary condition
+
+* Replace 'Pay with' with 'Receive' (Original PR: penumbra-zone/dex-explorer#294)
