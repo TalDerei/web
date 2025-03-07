@@ -1,0 +1,38 @@
+feat: #131: grid layout (#136)
+
+* feat: #107: add styles to 24h stats
+
+* fix: #107: improve pair selector styles
+
+* fix: styles
+
+* fix: format
+
+* fix: use `round` instead of `toFixed`
+
+* fix: add shimmering animation to skeleton
+
+* fix: negative percentage color
+
+* feat: implement mobile grid layout partly
+
+* feat: finish the mobile version of the trade page
+
+* feat: prepare the desktop layout
+
+* fix: fix the mobile chart size
+
+* fix: lint and format
+
+* fix: update ui package version
+
+* feat: apply grid to the order book
+
+* fix: apply grid for every possible screen resolution
+
+* fix: integrate order form into the layout
+
+* fix: global z-index (Original PR: penumbra-zone/dex-explorer#131
+136
+107
+107)
