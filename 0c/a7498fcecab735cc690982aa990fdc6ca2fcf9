@@ -1,0 +1,7 @@
+candles: rely on database for symmetrization, fill empty candles (#159)
+
+This changes the logic to rely on the database to integrate price information for both directions,
+which simplifies the logic on our end, and makes us correctly integrate tweaks
+to this logic without needing changes.
+
+This also fills empty candles in between the start and end dates of the candles provided by the database. (Original PR: penumbra-zone/dex-explorer#159)
