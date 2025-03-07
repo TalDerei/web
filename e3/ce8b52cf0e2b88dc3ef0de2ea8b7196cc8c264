@@ -1,0 +1,7 @@
+Responsive trade layout (#69)
+
+* Setup responsive trade layout
+
+* Adjust column widths
+
+* Remove unused Text componet (Original PR: penumbra-zone/dex-explorer#69)
