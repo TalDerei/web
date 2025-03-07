@@ -1,0 +1,8 @@
+fix: #245: hide `undefined` in status popover (#256)
+
+* fix: #245: hide `undefined` in status popover
+
+* fix: #245: add loading state to the status popover (Original PR: penumbra-zone/dex-explorer#245
+256
+245
+245)
