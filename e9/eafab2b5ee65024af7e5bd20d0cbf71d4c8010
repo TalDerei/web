@@ -1,0 +1,41 @@
+Chart (#75)
+
+* Setup responsive trade layout
+
+* Adjust column widths
+
+* Add lightweight chart'
+
+* Refactor ohlc api
+
+* Refactor api/blocks & add block fetcher
+
+* Create useCandles hook
+
+* Add path support for ca env
+
+* Refactor candles fetchers
+
+* Move ohlc api to candles
+
+* Move merge candles logic to api route
+
+* Tmp move block info logic to candles api route
+
+* Move block info logic to api route
+
+* Fix types for candles api routes
+
+* Remove IChartApi type
+
+* Move assets outside of useCandles
+
+* Remove console logs
+
+* Remove hook useCandles
+
+* Address PR comments
+
+* Fix import paths
+
+* Add penumbra chain id to candles api route (Original PR: penumbra-zone/dex-explorer#75)
