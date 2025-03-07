@@ -1,0 +1,30 @@
+Fix auto-closing orders withdrawal (#282)
+
+* Split positions into multiple files
+
+* Refactor and add position closes
+
+* Include positionCloses
+
+* Remove state from payload
+
+* Set positionCloses to undefined when there are nonoe
+
+* Fix lint issues
+
+* gas fees: display alternative gas fee metadata (#272)
+
+* display alternative gas fee metadata
+
+* use react query
+
+* cleanup
+
+* Update withdrawn amounts & prices to show dash (#277)
+
+---------
+
+Co-authored-by: Tal Derei <70081547+TalDerei@users.noreply.github.com>
+Co-authored-by: Lucas Meier <lucas@cronokirby.com> (Original PR: penumbra-zone/dex-explorer#282
+272
+277)
