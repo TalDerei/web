@@ -1,0 +1,88 @@
+feat: mobile view of route book (#124)
+
+* feat: first draft route bookˆ
+
+feat: correct table
+
+feat: display hop tokens correctly
+
+* feat: adapt to new url scheme
+
+* feat: remove unused tab and tokens array
+
+• Removed unused tokens array
+• Removed unused Route Depth tabˆ
+
+* feat: refactor route book component
+
+• Removed single hop data and only use multi hop data
+• Removed liquidity percentage and isDirect props from TradeRow component
+• Removed SpreadRow component and replaced it with a new implementation that calculates the spread between sell and buy orders
+• Removed unused code and simplified the RouteBookData component
+• Added a new calculateSpread function to calculate the spread between sell and buy orders
+
+* feat: improve route book UI
+
+• Un-commented Summary component
+• Replaced custom TabButton with Tabs from @penumbra-zone/ui
+• Removed console.log statement in TradeRow component
+• Updated table headers in RouteBookData component to correct symbol order
+• Removed unused width from RouteBookData table cell
+
+* feat: enhance trade row display in route book
+
+• Add relative size calculation for trade rows
+• Display relative size as a background gradient in trade rows
+• Pass relative size as a prop to TradeRow component
+• Calculate relative sizes for sell and buy orders separately
+
+* fix: address pr feedback
+
+* fix: address pr feedback
+
+* fix: pr feedback
+
+* wip: pr feedback continue
+
+* wip: pr feedback continue
+
+* feat: add trade route book UI and tests
+
+• Added a new test file for the trade model's calculateSpread function
+• Implemented tests for calculating spread with empty orders, valid orders, and decimal precision
+• Added a TODO comment in the route-book.tsx file for potential code condensation
+
+* feat: refactor route book UI and add tailwind config
+
+• Refactor route book UI to use tailwind classes for colors and borders
+• Move color constants to tailwind config
+• Create a SkeletonRow component for loading state
+• Remove hardcoded colors and borders from JSX
+• Update calculateSpread function to handle empty orders arrays
+
+* feat: improve route book price formatting
+
+• Added a function to pad prices with zeros for consistent formatting
+• Applied the padding function to the price in the TradeRow component
+• Removed a TODO comment related to zero-padding digits
+• Changed the initial state of isLoading in the RouteBook component to false
+
+* feat(route-book): enhance mobile view with skeleton loaders and dynamic data rendering
+
+Add conditional rendering to display skeleton rows when data is loading or unavailable, enhancing the user experience on mobile devices. Update `TradeRow` component to dynamically set background color based on transaction type. Integrate Tailwind's extended colors for consistency in theme application. Simplify `RouteBookData` function by removing unnecessary nested destructuring, leading to cleaner and more readable code.
+
+* feat: add conditional rendering for SkeletonRow in route book
+
+Implement conditional rows in the SkeletonRow component using a new 'isSpread' prop to enhance mobile view responsiveness. Adjust dynamic rendering in RouteBookData for spread rows and improve user feedback during data loading sequences.
+
+* feat: WORKING HOVER
+
+* feat: WORKING HOVER
+
+* lint: fix
+
+* lint: fix
+
+* feat: pr fixes
+
+* feat: pr fixes (Original PR: penumbra-zone/dex-explorer#124)
