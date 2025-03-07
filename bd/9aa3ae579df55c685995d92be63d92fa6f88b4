@@ -1,0 +1,12 @@
+Bump node version (#138)
+
+* Bump node version
+
+* bump node version throughout
+
+is anyone using `.nvmrc`? not sure but the comment said to keep it in
+sync so i'm doing that.
+
+---------
+
+Co-authored-by: Conor Schaefer <conor@penumbralabs.xyz> (Original PR: penumbra-zone/dex-explorer#138)
