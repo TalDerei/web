@@ -1,0 +1,63 @@
+Order form (#122)
+
+* Add OrderInput component 1/
+
+* Add SegmentedControl
+
+* Add slider
+
+* Add InfoRow component
+
+* Connect assets with usePathToMetadata
+
+* Add OrderFormStore
+
+* Integrate Balances
+
+* Add SimulateTradeRequest
+
+* Handle amount changes
+
+* Refactor mobx to fix strict mode warnings
+
+* Add planBuildBroadcast
+
+* Refactor to fsd structure
+
+* Update accountAddress
+
+* Address type warnings & errors
+
+* Fix steps
+
+* Revert @penumbra-zone/ui to remote version
+
+* Update @penumbra-zone/ui pkg
+
+* Fix lint
+
+* Add pnpm-lock.yaml to prettierignore
+
+* Refactor order form components to use tailwind
+
+* Add exchange rate
+
+* Add gas fee
+
+* Add unsetAmount
+
+* Fix lint issues
+
+* Undo link
+
+* Update @penumbra-zone/ui package & use toast for error
+
+* Update @penumbra-zone/ui
+
+* Apply comments
+
+* Unified connect-button
+
+* Refactor connect-button props
+
+* Add no amount error message (Original PR: penumbra-zone/dex-explorer#122)
