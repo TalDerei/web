@@ -1,0 +1,25 @@
+Inspect Block Page (#378)
+
+* Add inspect block page
+
+* Fetch transactions by height
+
+* Setup block summary nextjs api route
+
+* Improve display type for batchSwaps
+
+* Parse batchSwaps from pindexer
+
+* Fix lint issues
+
+* Parse from jsonb
+
+* Update batch swaps type
+
+* Merge branch main into inspect-block
+
+* Replace Table with TableCell
+
+* Address PR comments
+
+* Use serialization functions (Original PR: penumbra-zone/dex-explorer#378)
