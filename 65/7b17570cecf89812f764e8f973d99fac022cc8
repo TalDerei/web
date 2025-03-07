@@ -1,0 +1,26 @@
+feat: #110: Explore page (#133)
+
+* feat: #110: add PenumbraWaves SVG to the header
+
+* feat: #110: add markup for the explore page header
+
+* feat: #111: add loading markup for the pairs table
+
+* feat: fill table with fake data
+
+* feat: implement stats backend request
+
+* feat: apply stats data to the explore page
+
+* feat: #110: use server components to render the explore page
+
+* fix: lint
+
+* fix: move the constant out
+
+* fix: add tablet layout (Original PR: penumbra-zone/dex-explorer#110
+133
+110
+110
+111
+110)
