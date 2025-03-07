@@ -1,0 +1,15 @@
+feat: #111: trading pairs part 3 (#186)
+
+* feat: #111: make stats request in client components
+
+* feat: #111: implement serialize, deserialize and innerFetch helpers
+
+* refactor: use `apiFetch` and serializers for summary and summaries
+
+* fix: use apifetch
+
+* feat: #111: implement pagination of the trading pairs (Original PR: penumbra-zone/dex-explorer#111
+186
+111
+111
+111)
