@@ -1,0 +1,5 @@
+Merge branch 'main' into feat/#45-v2-nav
+
+# Conflicts:
+#	package.json
+#	pnpm-lock.yaml (Original PR: penumbra-zone/dex-explorer#45)
