@@ -1,0 +1,2 @@
+fix: #87: support styled-components in SSR to solve FOUC (#88) (Original PR: penumbra-zone/dex-explorer#87
+88)
