@@ -1,0 +1,17 @@
+explore page: use common numeraire (#223)
+
+* volume and liquidity using common numeraire (usdc)
+
+* explore: usdc price api using sql query
+
+* round down since value view expects an integer
+
+* filter out pairs with zero liquidity and trading volume
+
+* linting and comments
+
+* stats: usdc-denominated stats for explore page
+
+* utility: split price calculations into seperate utility method
+
+* linting and fixes (Original PR: penumbra-zone/dex-explorer#223)
