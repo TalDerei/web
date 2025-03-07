@@ -1,0 +1,18 @@
+feat: #107: 24h stats design (#134)
+
+* feat: #107: add styles to 24h stats
+
+* fix: #107: improve pair selector styles
+
+* fix: styles
+
+* fix: format
+
+* fix: use `round` instead of `toFixed`
+
+* fix: add shimmering animation to skeleton
+
+* fix: negative percentage color (Original PR: penumbra-zone/dex-explorer#107
+134
+107
+107)
