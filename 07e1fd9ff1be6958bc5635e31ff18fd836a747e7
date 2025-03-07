@@ -1,0 +1,5 @@
+api(book): fix sell side calculation (#288)
+
+* api(book): fix sell side calculation
+
+* api(book): simplify some more and add comments (Original PR: penumbra-zone/dex-explorer#288)
