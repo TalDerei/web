@@ -1,0 +1,5 @@
+fix: remove redirect loader (#189)
+
+* feat: add not found page
+
+* feat: add page middleware (Original PR: penumbra-zone/dex-explorer#189)
