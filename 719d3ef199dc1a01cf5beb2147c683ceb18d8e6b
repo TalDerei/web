@@ -1,0 +1,7 @@
+explore page: data rendering (#254)
+
+* addressing feedback and sorting by decreasing liquidity
+
+* use price calculation utility
+
+* feedback (Original PR: penumbra-zone/dex-explorer#254)
