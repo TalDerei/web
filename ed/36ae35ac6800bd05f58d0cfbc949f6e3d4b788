@@ -1,0 +1,7 @@
+feat: apply Tailwind-based UI library (#129)
+
+* feat: apply Tailwind-based UI library
+
+* fix: use v13 of UI package
+
+* fix: format (Original PR: penumbra-zone/dex-explorer#129)
