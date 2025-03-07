@@ -1,0 +1,30 @@
+feat: #111: explore page, trading pairs part 2 (#173)
+
+* feat: display summary data of popular trading pairs
+
+* fix: #111: refetching the query
+
+* feat: select only distinct rows from summary table
+
+* feat: #111: request candles
+
+* feat: #111: improve the select query
+
+* fix: #111: update sql statement
+
+* feat: #111: set up the chart
+
+* feat: #111: implement and finish the chart
+
+* feat: #111: update to the latest data
+
+* fix: #111: require durationWindow in the API (Original PR: penumbra-zone/dex-explorer#111
+173
+111
+111
+111
+111
+111
+111
+111
+111)
