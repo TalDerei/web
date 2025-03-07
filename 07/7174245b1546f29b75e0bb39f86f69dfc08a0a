@@ -1,0 +1,9 @@
+Summary data for pairs (#123)
+
+* Summary api endpoint
+
+* working example
+
+* Delete old code
+
+* Narrow down types to only relevant tables (Original PR: penumbra-zone/dex-explorer#123)
