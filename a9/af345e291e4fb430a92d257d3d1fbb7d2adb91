@@ -1,0 +1,11 @@
+Chart rendering bug fix (#183)
+
+* Fix chart rendering bug
+
+* re-enable tests
+
+* Easier to click
+
+* renable tests
+
+* test fix (Original PR: penumbra-zone/dex-explorer#183)
