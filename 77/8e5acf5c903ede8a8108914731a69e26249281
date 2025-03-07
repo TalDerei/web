@@ -1,0 +1,12 @@
+feat: #96: sub-account selector (#118)
+
+* feat: #96: implement sub-account selector dropdown
+
+* feat: #96: use toasts to display errors
+
+* chore: update the deps
+
+* chore: format (Original PR: penumbra-zone/dex-explorer#96
+118
+96
+96)
