@@ -1,0 +1,3 @@
+Merge pull request #10 from penumbra-zone/prod-build
+
+ci: update container from nextjs docs (Original PR: penumbra-zone/dex-explorer#10)
