@@ -1,0 +1,5 @@
+fix: positions crashing the app (#322)
+
+* fix: positions crushing the app
+
+* fix: apply try-catch to a throwing code block, add comments (Original PR: penumbra-zone/dex-explorer#322)
