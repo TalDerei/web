@@ -1,0 +1,10 @@
+fix: we can withdraw auto-closing positions (#295)
+
+* fix: we can withdraw autoclosing positions
+
+* linting
+
+---------
+
+Co-authored-by: Tal Derei <talderei99@gmail.com>
+Co-authored-by: Jason M. Hasperhoven <martijn.hasperhoven@gmail.com> (Original PR: penumbra-zone/dex-explorer#295)
