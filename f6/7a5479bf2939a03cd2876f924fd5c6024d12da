@@ -1,0 +1,13 @@
+fix build (#22)
+
+* fix build
+
+- reconfigure exports in deps
+- use new dep releases
+- rm extraneous deps
+
+* transpile protobuf package
+
+---------
+
+Co-authored-by: turbocrime <turbocrime@users.noreply.github.com> (Original PR: penumbra-zone/dex-explorer#22)
