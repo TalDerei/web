@@ -1,0 +1,5 @@
+docs: add quickstart docs for dev env
+
+Adds a nix config so that tooling like `pnpm` is available immediately.
+Fleshes out the documentation around connecting to managed database
+instances, since merge of #56. (Original PR: penumbra-zone/dex-explorer#56)
