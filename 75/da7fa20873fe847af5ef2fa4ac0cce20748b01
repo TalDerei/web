@@ -1,0 +1,7 @@
+Route book -> SimulateTradeRequest refactor (#117)
+
+* Use simluate req for route book
+
+* Working buys
+
+* Finalizing (Original PR: penumbra-zone/dex-explorer#117)
