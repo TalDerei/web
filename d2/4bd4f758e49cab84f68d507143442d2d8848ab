@@ -1,0 +1,9 @@
+feat: #111: trading pairs part 1 (#170)
+
+* feat: display summary data of popular trading pairs
+
+* fix: #111: refetching the query
+
+* feat: select only distinct rows from summary table (Original PR: penumbra-zone/dex-explorer#111
+170
+111)
