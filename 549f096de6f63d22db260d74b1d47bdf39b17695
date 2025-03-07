@@ -1,0 +1,9 @@
+Make Tabs as Links (#360)
+
+* Make tabs as links
+
+* Update @penumbra-zone/ui
+
+* Remove unused Link
+
+* Update @penumbra-zone/ui (Original PR: penumbra-zone/dex-explorer#360)
