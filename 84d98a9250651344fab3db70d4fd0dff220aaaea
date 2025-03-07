@@ -1,0 +1,7 @@
+feat: better assets bar (#262)
+
+* feat: better assets bar
+
+* chore: additional comments
+
+* fix: use tailwind native units (Original PR: penumbra-zone/dex-explorer#262)
