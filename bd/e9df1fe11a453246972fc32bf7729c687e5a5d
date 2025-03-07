@@ -1,0 +1,29 @@
+Trading View LP IDs (#19)
+
+* Basic LP derivation attempt
+
+* Babel integration
+
+* More experimental flags
+
+* wasm working (#20)
+
+* wasm working
+
+* wasm v5
+
+---------
+
+Co-authored-by: turbocrime <turbocrime@users.noreply.github.com>
+
+* LP ids
+
+* Partially working (depending on position)
+
+* Fix lp nft ids on lp view
+
+---------
+
+Co-authored-by: the letter L <134443988+turbocrime@users.noreply.github.com>
+Co-authored-by: turbocrime <turbocrime@users.noreply.github.com> (Original PR: penumbra-zone/dex-explorer#19
+20)
