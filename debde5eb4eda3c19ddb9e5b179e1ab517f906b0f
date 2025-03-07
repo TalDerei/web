@@ -1,0 +1,5 @@
+explore: disable top price mover until query is fixed (#370)
+
+* explore: disable top price mover until query is fixed
+
+* chore: lint (Original PR: penumbra-zone/dex-explorer#370)
