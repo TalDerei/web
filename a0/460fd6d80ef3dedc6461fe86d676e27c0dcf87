@@ -1,0 +1,7 @@
+Update dockerfile to use pnpm (#50)
+
+* Update dockerfile to use pnpm
+
+* Update dockerfile comment
+
+* Use pnpm for build cmd (Original PR: penumbra-zone/dex-explorer#50)
