@@ -1,0 +1,1 @@
+fix: exclude prices for closed positions (#306) (Original PR: penumbra-zone/dex-explorer#306)
