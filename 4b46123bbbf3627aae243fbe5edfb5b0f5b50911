@@ -1,0 +1,17 @@
+feat: add new minimal connect button, connect wallet (#224)
+
+* feat: add new minimal connect button, add positions, wallet not connected state
+
+* feat: generic blockchain error for summary and chart
+
+* Update src/features/connect/connect-button.tsx
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com>
+
+* Quick commit 2025-01-06 16:46:56
+
+* Quick commit 2025-01-06 16:51:48
+
+---------
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com> (Original PR: penumbra-zone/dex-explorer#224)
