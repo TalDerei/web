@@ -1,0 +1,8 @@
+ci: more verbose request logging (#374)
+
+When fetching external URLs, notably the Registry JSON, we want to see
+in the logs whether that's a cache hit or miss. Tweaking the logging
+config to allow just that.
+
+Also includes some references to config options that we can only enable
+once we upgrade to NextJS v15. (Original PR: penumbra-zone/dex-explorer#374)
