@@ -1,0 +1,3 @@
+fix: hops (#309)
+
+previously, the hops in the recent executions were reversed. (Original PR: penumbra-zone/dex-explorer#309)
