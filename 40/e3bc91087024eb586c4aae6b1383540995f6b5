@@ -1,0 +1,21 @@
+feat: mobile view of portfolio page (#142)
+
+* feat: mobile view of portfolio page
+
+* Update src/pages/portfolio/index.tsx
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com>
+
+* fix: pr feedback
+
+* fix: pr feedback
+
+* fix: detect useragent on server
+
+* fix: detect useragent on server
+
+* feat: pr feedback
+
+---------
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com> (Original PR: penumbra-zone/dex-explorer#142)
