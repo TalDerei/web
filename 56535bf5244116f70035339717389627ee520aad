@@ -1,0 +1,25 @@
+Positions pricing (#226)
+
+* Remove position mutation from api
+
+* Update position model
+
+* Convert to an actual Table
+
+* Add current values
+
+* Add DisplayPosition and DisplayAsset types
+
+* Display multiple orders
+
+* Remove unused code
+
+* Change var name
+
+* Update packages
+
+* Fix lint issues
+
+* Add nowrap to fee tier heading
+
+* Update ui package & fix double import (Original PR: penumbra-zone/dex-explorer#226)
