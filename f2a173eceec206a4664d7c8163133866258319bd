@@ -1,0 +1,15 @@
+ui: display relevant accounts (#202)
+
+* update npm deps
+
+* view service balance rpc
+
+* simplify account index logic
+
+* balances query key and loading spinner
+
+* ui density updates
+
+* other density updates
+
+* align loading state with button width (Original PR: penumbra-zone/dex-explorer#202)
