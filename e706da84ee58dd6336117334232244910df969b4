@@ -1,0 +1,8 @@
+fix: market buy and sell UI bugs (#216)
+
+* fix: update order form to conditionally set isApproximately based on asset amounts
+
+# Conflicts:
+#	src/pages/trade/ui/order-form/order-form-market.tsx
+
+* fix: lints (Original PR: penumbra-zone/dex-explorer#216)
