@@ -1,0 +1,19 @@
+Mobx spike (#77)
+
+* feat: sync popover
+
+* fix: sync bar
+
+* refactor: change `useConnect` to use signals
+
+* feat: change state manager to Zustand
+
+* refactor: remove signals lib usage
+
+* Mobx spike
+
+* Post review updates
+
+---------
+
+Co-authored-by: Max Korsunov <maxkors2014@gmail.com> (Original PR: penumbra-zone/dex-explorer#77)
