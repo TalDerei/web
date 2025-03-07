@@ -1,0 +1,11 @@
+Nav+Pairs+Trades pages (#18)
+
+* Navbar and Pairs page intial commit
+
+* Use token information from public registry
+
+* Fix imagePath issue
+
+* Upgrade dependencies to bring in @penumbra-zone/wasm
+
+* Execution History page (Original PR: penumbra-zone/dex-explorer#18)
