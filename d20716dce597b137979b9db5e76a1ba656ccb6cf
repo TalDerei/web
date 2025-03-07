@@ -1,0 +1,7 @@
+feat: implement v2 version of TxViewer (#379)
+
+* feat: implement v2 version of TxViewer
+
+* fix: use older version of protobuf package
+
+* chore: update ui deps (Original PR: penumbra-zone/dex-explorer#379)
