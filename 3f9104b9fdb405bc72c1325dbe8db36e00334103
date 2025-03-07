@@ -1,0 +1,5 @@
+Fix amount + price in market executions (#331)
+
+* Fix amount + price in market executions
+
+* Add nowrap to route column (Original PR: penumbra-zone/dex-explorer#331)
